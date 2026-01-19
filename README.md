@@ -3,7 +3,7 @@
 ### 🌟 Informatics - Data Science @ University of Washington
 #### September 2024 - June 2026
 #### GPA: 3.86/4.00
-I specialize in **process automation** and **data-driven storytelling**. Currently, I'm an RPA Business Analyst Intern at UW Medicine, where I build automations to streamline medical operations and improve reporting cycles.
+I specialize in **process improvement** and **data-driven storytelling**. Currently, I'm an RPA Business Analyst Intern at UW Medicine, where I build automations to streamline medical operations and improve reporting cycles.
 
 ---
 
