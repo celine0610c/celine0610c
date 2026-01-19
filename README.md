@@ -52,5 +52,3 @@ I specialize in **process automation** and **data-driven storytelling**. Current
 ### 🌟 Connect with Me
 * **LinkedIn:** [linkedin.com/in/celinechenn](https://linkedin.com/in/celinechenn)
 * **Email:** celine206c@gmail.com
-
----
